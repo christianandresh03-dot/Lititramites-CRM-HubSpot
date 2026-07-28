@@ -32,4 +32,4 @@ e integración bidireccional entre HubSpot y Lititrámites.
 TRL5 - Validación de tecnología en entorno relevante
 
 ## Video del prototipo funcional
-(https://youtu.be/Xa8spqhKzJQ
+https://youtu.be/Xa8spqhKzJQ
