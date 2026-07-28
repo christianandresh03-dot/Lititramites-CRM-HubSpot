@@ -30,3 +30,6 @@ e integración bidireccional entre HubSpot y Lititrámites.
 
 ## Nivel TRL alcanzado
 TRL5 - Validación de tecnología en entorno relevante
+
+## Video del prototipo funcional
+(https://youtu.be/Xa8spqhKzJQ
